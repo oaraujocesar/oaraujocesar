@@ -21,7 +21,7 @@
 
 ## Hey there 👋
 
-"My name is César, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking foreward to improve everything I know and learn a lot more. Use my knowledge to help people out :handshake: using advanced technologies with acessibility :woman_in_manual_wheelchair:, creating equal oportunities :heavy_check_mark: and spreading the culture of diversity in the technological sphere is my main goals. :dart:"
+"My name is César, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking foreward to improve everything I know and learn a lot more. Use my knowledge to help people out :handshake: using advanced technologies with acessibility :woman_in_manual_wheelchair:, creating equal oportunities :heavy_check_mark: and spreading the culture of diversity in the technological sphere are my main goals. :dart:"
 
 :zap: These are some of my technical skills:
 <ul>
