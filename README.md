@@ -1,5 +1,5 @@
 
-<h2 align="center">I'm Pedro Lustosa! :speech_balloon:</h2>
+<h2 align="center">I'm César O. Araújo! :speech_balloon:</h2>
 
 <p align="center">
   <a href="https://github.com/oaraujocesar/github-readme-stats">
