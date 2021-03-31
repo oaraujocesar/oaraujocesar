@@ -21,10 +21,6 @@
 
 ## Hey there 👋
 
-* 📫 How to find me:<br><br> 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cesaroaraujo/)](https://www.linkedin.com/in/cesaroaraujo/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=oaraujocesar@gmail.com)](mailto:oaraujocesar@gmail.com)
-
 "My name is César, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking foreward to improve everything I know and learn a lot more. Use my knowledge to help people out :handshake: using advanced technologies with acessibility :woman_in_manual_wheelchair:, creating equal oportunities :heavy_check_mark: and spreading the culture of diversity in the technological sphere is my main goals. :dart:"
 
 :zap: These are some of my technical skills:
@@ -42,3 +38,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white">
   </p>
 </ul>
+
+* 📫 How to find me:<br><br> 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cesaroaraujo/)](https://www.linkedin.com/in/cesaroaraujo/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=oaraujocesar@gmail.com)](mailto:oaraujocesar@gmail.com)
