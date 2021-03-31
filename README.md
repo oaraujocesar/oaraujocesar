@@ -42,3 +42,4 @@
 * 📫 How to find me:<br><br> 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cesaroaraujo/)](https://www.linkedin.com/in/cesaroaraujo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=oaraujocesar@gmail.com)](mailto:oaraujocesar@gmail.com)
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black&link=https://dev.to/oaraujocesar)](https://dev.to/oaraujocesar)
