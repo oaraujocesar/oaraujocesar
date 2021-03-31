@@ -25,7 +25,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cesaroaraujo/)](https://www.linkedin.com/in/cesaroaraujo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=oaraujocesar@gmail.com)](mailto:oaraujocesar@gmail.com)
 
-"My name is César, I'm a passionate technologist graduated in Computer Engineering and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking foreward to improve everything I know and learn a lot more. Use my knowledge to help people out using advanced technologies with acessibility, creating equal oportunities and spreading the culture of diversity in the technological sphere is my main goals."
+"My name is César, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking foreward to improve everything I know and learn a lot more. Use my knowledge to help people out using advanced technologies with acessibility, creating equal oportunities and spreading the culture of diversity in the technological sphere is my main goals."
 
 :zap: These are some of my technical skills:
 <ul>
