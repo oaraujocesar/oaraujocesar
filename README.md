@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaraujocesar&layout=compact&langs_count=7&theme=jolly"/>
 </div>   
   
-## Hey there 👋
+## Hey you! 👋
 
 "My name is César, I'm a passionate :blue_heart: technologist graduated in Computer Engineering :zap: and I'm currently working as a Software Developer Consultant at ThoughtWorks. Everything about web development inspires me and I'm looking forward to improve everything I know and learn a lot more. Use my knowledge to help people out :handshake: using advanced technologies with acessibility :woman_in_manual_wheelchair:, creating equal oportunities :heavy_check_mark: and spreading the culture of diversity in the technological sphere are my main goals. :dart:"
 
