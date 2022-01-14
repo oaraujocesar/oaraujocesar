@@ -1,11 +1,11 @@
 
 <h2 align="center">I'm César O. Araújo! :vulcan_salute:</h2>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/oaraujocesar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oaraujocesar&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaraujocesar&layout=compact&langs_count=7&theme=aura" />
-</div>    -->
+</div>   
   
 ## Hey you! 👋
 
